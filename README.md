@@ -1,1 +1,1 @@
-# Code samples for using Terraform Registry Modules
+# Code sample for using Terraform Registry Modules
